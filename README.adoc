@@ -357,7 +357,7 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |House 177, Lane 2, New DOHS Mohakhali, Dhaka 1206, Bangladesh
 |Java, Springboot, Nodejs(hapi), Hibernate, ReactJs, NextJs, AngularJS, Android, iOS
 |http://www.dsinnovators.com[Website] https://www.linkedin.com/company/dsinnovators/[LinkedIn] https://www.facebook.com/DynamicSolutionInnovators/[Facebook]
-|Please update
+|250+ Software and QA Engineers
 
 |Dohatec New Media
 |43, Doha House, Purana Paltan Lane, Dhaka
